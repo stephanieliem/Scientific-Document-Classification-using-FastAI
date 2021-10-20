@@ -1,1 +1,1 @@
-# Magang
+# Scientific-Document-Classification-using-FastAI
